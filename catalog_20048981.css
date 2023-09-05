@@ -1,0 +1,344 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@500&display=swap');
+
+* {
+  box-sizing: border-box;
+  font-weight: 500;
+  font-family: 'Roboto', sans-serif;
+}
+
+giftcard_store {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0.9),
+        rgba(0, 0, 0, 0.5)
+      ),
+      url("./images/yes.jpg");
+      background-size: cover;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    shop {
+      padding: 100px 0px;
+      height: 440px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      width: 100%;
+      align-items: center;
+      color: white;
+  }
+store_name {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+  }
+
+  inventory {
+    display: flex;
+    flex-direction: row;
+    width: 75%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 40px;
+    
+  }
+  gift_card {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    background-color: rgb(255, 255, 255, 0.07);
+    backdrop-filter: blur(7px);
+    border-top: 1px solid rgb(31, 31, 31);
+    border-bottom: 1px solid rgb(31, 31, 31);
+    border-left: 1px solid rgb(41, 41, 41);
+    border-right: 1px solid rgb(41, 41, 41);
+    box-shadow: 0px 0px 20px 20px rgb(0, 0, 0, 0.5);
+    color: black;
+    margin-bottom: 35px;
+    border-radius: 20px;
+    padding: 30px;
+    color: rgb(255, 255, 255);
+    position: relative;
+  }
+
+  gift_card:hover {
+      background-color: #444444;
+      color: aliceblue;
+      cursor: pointer;
+      transform: scale(1.03);
+      transition: all 1s ease;
+
+  }
+  
+
+  name {
+    font-size: 32px;
+    padding: 30px 0px 0px 0px;
+    margin-bottom: 8px;
+  }
+
+
+  cost {
+    font-size: 25px;
+    color: rgb(252, 252, 252);
+    margin-top: 12px;
+    margin-bottom: 12px;
+    padding-bottom: 6px;
+  }
+
+type,
+discount,
+valid,
+location,
+deliver {
+  font-size: 17px;
+  line-height: 20px;
+  color: rgb(224, 224, 224);
+  margin-left: 17px;
+  display: list-item;
+}
+
+description {
+  font-size: 18px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  }
+
+important_notice {
+  color: rgb(182, 128, 27);
+}
+
+  #logo{
+    content: url("./images/fin3.png");
+    height: 250px;
+    width: 250px;
+    filter: brightness(0) invert(1);
+  }
+  
+  #steam{
+    content: url("./images/Steam.jpg");
+    height: 500px;
+    width: 100%;
+    border-radius: 4.24%;
+    border: 5px solid #444444;
+    box-shadow: 0px 0px 20px 10px rgba(17, 17, 17, 0.5);
+    flex-shrink: 0;
+  }
+
+  #google{
+    content: url("./images/google.png");
+    height: 500px;
+    width: 100%;
+    border-radius: 4.24%;
+    border: 5px solid #444444;
+    box-shadow: 0px 0px 20px 10px rgba(17, 17, 17, 0.5);
+    flex-shrink: 0;
+  }
+
+  #valorant{
+    content: url("./images/valorant.jpg");
+    height: 500px;
+    width: 100%;
+    border-radius: 4.24%;
+    border: 5px solid #444444;
+    box-shadow: 0px 0px 20px 10px rgba(17, 17, 17, 0.5);
+    flex-shrink: 0;
+  }
+
+  #spotify{
+    content: url("./images/Spotify.png");
+    height: 500px;
+    width: 100%;
+    border-radius: 4.24%;
+    border: 5px solid #444444;
+    box-shadow: 0px 0px 20px 10px rgba(17, 17, 17, 0.5);
+    flex-shrink: 0;
+  }
+
+  #xbox{
+    content: url("./images/XBOX.jpg");
+    height: 500px;
+    width: 100%;
+    border-radius: 4.24%;
+    border: 5px solid #444444;
+    box-shadow: 0px 0px 20px 10px rgba(17, 17, 17, 0.5);
+    flex-shrink: 0;
+  }
+
+  #xsplit{
+    content: url("./images/xsplit.jpg");
+    height: 500px;
+    width: 100%;
+    border-radius: 4.24%;
+    border: 5px solid #444444;
+    box-shadow: 0px 0px 20px 10px rgba(17, 17, 17, 0.5);
+    flex-shrink: 0;
+  }
+
+  #razer{
+    content: url("./images/razer.png");
+    height: 500px;
+    width: 100%;
+    border-radius: 4.24%;
+    border: 5px solid #444444;
+    box-shadow: 0px 0px 20px 10px rgba(17, 17, 17, 0.5);
+    flex-shrink: 0;
+  }
+
+  #netflix{
+    content: url("./images/Netflix.png");
+    height: 500px;
+    width: 100%;
+    border-radius: 4.24%;
+    border: 5px solid #444444;
+    box-shadow: 0px 0px 20px 10px rgba(17, 17, 17, 0.5);
+    flex-shrink: 0;
+  }
+
+  #pubg{
+    content: url("./images/pubg.png");
+    height: 500px;
+    width: 100%;
+    border-radius: 4.24%;
+    border: 5px solid #444444;
+    box-shadow: 0px 0px 20px 10px rgba(17, 17, 17, 0.5);
+    flex-shrink: 0;
+  }
+
+  #twitch{
+    content: url("./images/twitch.jpg");
+    height: 500px;
+    width: 100%;
+    border-radius: 4.24%;
+    border: 5px solid #444444;
+    box-shadow: 0px 0px 20px 10px rgba(17, 17, 17, 0.5);
+    flex-shrink: 0;
+  }
+
+  #hulu{
+    content: url("./images/hulu.jpg");
+    height: 500px;
+    width: 100%;
+    border-radius: 4.24%;
+    border: 5px solid #444444;
+    box-shadow: 0px 0px 20px 10px rgba(17, 17, 17, 0.5);
+    flex-shrink: 0;
+  }
+
+  #crunchyroll{
+    content: url("./images/crunchyroll.jpg");
+    height: 500px;
+    width: 100%;
+    border-radius: 4.24%;
+    border: 5px solid #444444;
+    box-shadow: 0px 0px 20px 10px rgba(17, 17, 17, 0.5);
+    flex-shrink: 0;
+  }
+
+  #itunes{
+    content: url("./images/iTunes.jpg");
+    height: 500px;
+    width: 100%;
+    border-radius: 4.24%;
+    border: 5px solid #444444;
+    box-shadow: 0px 0px 20px 10px rgba(17, 17, 17, 0.5);
+    flex-shrink: 0;
+  }
+
+  #amazon{
+    content: url("./images/amazon.jpg");
+    height: 500px;
+    width: 100%;
+    border-radius: 4.24%;
+    border: 5px solid #444444;
+    box-shadow: 0px 0px 20px 10px rgba(17, 17, 17, 0.5);
+    flex-shrink: 0;
+  }
+
+  #ebay{
+    content: url("./images/ebay.jpg");
+    height: 500px;
+    width: 100%;
+    border-radius: 4.24%;
+    border: 5px solid #444444;
+    box-shadow: 0px 0px 20px 10px rgba(17, 17, 17, 0.5);
+    flex-shrink: 0;
+  }
+
+  #nintendo{
+    content: url("./images/Nintendo.jpg");
+    height: 500px;
+    width: 100%;
+    border-radius: 4.24%;
+    border: 5px solid #444444;
+    box-shadow: 0px 0px 20px 10px rgba(17, 17, 17, 0.5);
+    flex-shrink: 0;
+  }
+  
+  #apexlegends{
+    content: url("./images/apex.jpg");
+    height: 500px;
+    width: 100%;
+    border-radius: 4.24%;
+    border: 5px solid #444444;
+    box-shadow: 0px 0px 20px 10px rgba(17, 17, 17, 0.5);
+    flex-shrink: 0;
+  }
+
+  #flight{
+    content: url("./images/flight.jpg");
+    height: 500px;
+    width: 100%;
+    border-radius: 4.24%;
+    border: 5px solid #444444;
+    box-shadow: 0px 0px 20px 10px rgba(17, 17, 17, 0.5);
+    flex-shrink: 0;
+  }
+
+  shop_details {
+    padding: 100px 0px;
+    height: 440px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 100%;
+    align-items: center;
+    color: white;
+}
+
+store_address,
+contact,
+telephone_number,
+mobile_number,
+street,
+city,
+postal_code,
+country,
+store_email,
+store_web_address {
+  font-family: 'Source Code Pro', monospace;
+}
+
+#twenty{
+  content: url("./images/clipart2391691.png");
+  height: 250px;
+  width: 250px;
+}
+
+ description2 {
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 100%;
+    align-items: center;
+    color: white;
+    font-family: 'Source Code Pro', monospace;
+}

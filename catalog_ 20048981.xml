@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<?xml-stylesheet href="catalog_20048981.css" type="text/css"?>
+
+<giftcard_store SName="Transacta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="catalog_20048981.xsd">
+  <shop>
+    <store_name>Transacta</store_name>
+    <store_logo>
+      <img id="logo"></img>
+    </store_logo>
+  </shop>
+  <inventory>
+    <gift_card code="saS432f" balance="50" enabled="False" expired="False" currency="Dollar" promo_code="Hyper">
+      <giftcard_img>
+        <img id="steam"></img>
+      </giftcard_img>
+      <name>Steam giftcard</name>
+      <type>Digital</type>
+      <location>United States</location>
+      <deliver>Deliver time 5-10 min</deliver>
+      <discount>Promocode Hyper for 30% off</discount>
+      <valid>Expires on: 02/03/2023</valid>
+      <description> Steam is the best choice for PC gaming available. Browse titles for over 3,500 games. </description>
+      <cost>50$</cost>
+      <important_notice>Important Notice: Due to recent changes made by Steam, you can only activate gift cards having the same currency that is configured in your steam account.</important_notice>
+    </gift_card>
+    <gift_card code="FSD5df" balance="20" enabled="False" expired="False" currency="Dollar" promo_code="Hyper">
+      <giftcard_img>
+        <img id="google"></img>
+      </giftcard_img>
+      <name>Google Play</name>
+      <type>Digital</type>
+      <location>United States</location>
+      <deliver>Deliver time 10-15 min in our business hour</deliver>
+      <discount>Use promocode Hyper for 15% off</discount>
+      <cost>25$</cost>
+      <important_notice>Important Notice: No expiration date. Code is valid only in UNITED STATES.</important_notice>
+    </gift_card>
+    <gift_card code="kf7dfS" balance="30" enabled="False" expired="False" currency="Dollar">
+      <giftcard_img>
+        <img id="valorant"></img>
+      </giftcard_img>
+      <name>Valorant gift card 100$</name>
+      <type>Digital</type>
+      <location>United Kingdom</location>
+      <deliver>Deliver time 10-15 min</deliver>
+      <valid>Expires on: 02/03/2023</valid>
+      <description>Riot Games gift card is a digital RP voucher with an activation code that adds Riot Points to your selected Riot Games account.</description>
+      <cost>100$</cost>
+      <important_notice>Important Notice: Requires base game.</important_notice>
+    </gift_card>
+    <gift_card code="Hjd6S" balance="100" enabled="False" expired="False" currency="Dollar" promo_code="Hyper">
+      <giftcard_img>
+        <img id="razer"></img>
+      </giftcard_img>
+      <name>Razer Gold</name>
+      <type>Digital</type>
+      <location>United Kingdom</location>
+      <deliver>Deliver time 5-10 min</deliver>
+      <discount>Promocode Hyper for 15% off</discount>
+      <valid>Expires on: 02/03/2023</valid>
+      <description>Use Razer Gold to buy games and in-game content to get more bang for your buck.</description>
+      <cost>100$</cost>
+    </gift_card>
+    <gift_card code="js6Dd" balance="100" enabled="False" expired="False" currency="Dollar" promo_code="Hyper">
+      <giftcard_img>
+        <img id="itunes"></img>
+      </giftcard_img>
+      <name>iTunes Gift Card</name>
+      <type>Physical</type>
+      <discount>Promocode Hyper for 30% off</discount>
+      <description>Buy 100 dollar iTunes card code and try this Apple service on your own iTunes account!</description>
+      <cost>100$</cost>
+      <important_notice>Important Notice: No expiration date. Code is valid only for the US AppStore.</important_notice>
+    </gift_card>
+    <gift_card code="kg5hf" balance="25" enabled="False" expired="False" currency="Pound">
+      <giftcard_img>
+        <img id="twitch"></img>
+      </giftcard_img>
+      <name>Twitch Gift Card</name>
+      <type>Digital</type>
+      <location>United Kingdom</location>
+      <deliver>Deliver time 5-10 min</deliver>
+      <valid>Expires on: 02/03/2023</valid>
+      <description>Once you activate this digital gift card, the equivalent of 25 USD will be added to your Twitch Wallet as Bits.</description>
+      <cost>25$</cost>
+    </gift_card>
+    <gift_card code="klJD5" balance="50" enabled="False" expired="False" currency="Pound" promo_code="Hyper">
+      <giftcard_img>
+        <img id="amazon"></img>
+      </giftcard_img>
+      <name>Amazon Gift Card 50£</name>
+      <type>Digital</type>
+      <location>United Kingdom</location>
+      <deliver>Deliver time 5-10 min</deliver>
+      <discount>Promocode Hyper for 30% off</discount>
+      <valid>Expires on: 02/03/2023</valid>
+      <description>When you buy Amazon Gift Card 50 GBP, you open a door for the receiver to pick and choose from a terrific variety of items.</description>
+      <cost>50£</cost>
+    </gift_card>
+    <gift_card code="skldjf" balance="50" enabled="False" expired="False" currency="Dollar">
+      <giftcard_img>
+        <img id="hulu"></img>
+      </giftcard_img>
+      <name>HULU Gift Card</name>
+      <type>Digital</type>
+      <location>United Kingdom</location>
+      <deliver>Deliver time 5-10 min</deliver>
+      <valid>Expires on: 02/03/2023</valid>
+      <description>Hulu offers instant access to live and on demand channels, original series and films, and a premium library of TV and movies to more than 17 million subscribers in the U.S. Since its launch in 2008</description>
+      <cost>50$</cost>
+    </gift_card>
+    <gift_card code="hdD4da" balance="30" enabled="False" expired="False" currency="Pound" promo_code="Hyper">
+      <giftcard_img>
+        <img id="xbox"></img>
+      </giftcard_img>
+      <name>Xbox Game Pass </name>
+      <type>Digital</type>
+      <location>United Kingdom</location>
+      <deliver>Deliver time 5-10 min</deliver>
+      <discount>Promocode Hyper for 30% off</discount>
+      <valid>Expires on: 02/03/2023</valid>
+      <description>All of the Xbox Game Pass games can be downloaded for an unlimited number of times throughout the duration of the membership.</description>
+      <cost>30£</cost>
+    </gift_card>
+    <gift_card code="hD5FH" balance="25" enabled="False" expired="False" currency="Pound" promo_code="Hyper">
+      <giftcard_img>
+        <img id="pubg"></img>
+      </giftcard_img>
+      <name>PUBG UC</name>
+      <type>Physical</type>
+      <location>United Kingdom</location>
+      <discount>Promocode Hyper for 30% off</discount>
+      <valid>Expires on: 02/03/2023</valid>
+      <description>PUBG Survivor Pass: Vikendi is a DLC expansion to one of the most popular battle royale games of all time.</description>
+      <cost>25£</cost>
+      <important_notice>The base game PlayerUnknown’s Battlegrounds Steam key is required in order to play.</important_notice>
+    </gift_card>
+    <gift_card code="ds4F6H" balance="45" enabled="False" expired="False" currency="Pound" promo_code="Hyper">
+      <giftcard_img>
+        <img id="xsplit"></img>
+      </giftcard_img>
+      <name>XSplit</name>
+      <type>Digital</type>
+      <location>United Kingdom</location>
+      <deliver>Deliver time 5-10 min</deliver>
+      <discount>Promocode Hyper for 25% off</discount>
+      <valid>Expires on: 02/03/2023</valid>
+      <cost>45£</cost>
+      <important_notice>Important Notice: In order to activate the key visit https://www.xsplit.com/redeem.</important_notice>
+    </gift_card>
+    <gift_card code="saS432f" balance="20" enabled="False" expired="False" currency="Dollar" promo_code="Hyper">
+      <giftcard_img>
+        <img id="crunchyroll"></img>
+      </giftcard_img>
+      <name>Crunchyroll</name>
+      <type>Physical</type>
+      <location>United States</location>
+      <discount>Promocode Hyper for 30% off</discount>
+      <valid>Expires on: 02/03/2023</valid>
+      <description>Welcome to VRV, the fan-first streaming service that connects the dots between anime, sci-fi, fantasy, cartoons, and more.</description>
+      <cost>25$</cost>
+    </gift_card>
+    <gift_card code="saS432f" balance="25" enabled="False" expired="False" currency="Euro" promo_code="Hyper">
+      <giftcard_img>
+        <img id="netflix"></img>
+      </giftcard_img>
+      <name>Netflix </name>
+      <type>Digital</type>
+      <location>Europe</location>
+      <deliver>Deliver time 5-10 min</deliver>
+      <discount>Promocode Hyper for 30% off</discount>
+      <valid>Expires on: 02/03/2023</valid>
+      <description>Buy Netflix Gift Card 25 EUR and get yourself a subscription that fits your needs and wants.</description>
+      <cost>25€</cost>
+    </gift_card>
+    <gift_card code="saS432f" balance="50" enabled="False" expired="False" currency="Dollar">
+      <giftcard_img>
+        <img id="ebay"></img>
+      </giftcard_img>
+      <name>Ebay</name>
+      <type>Digital</type>
+      <location>United States</location>
+      <deliver>Deliver time 5-10 min</deliver>
+      <valid>Expires on: 02/03/2023</valid>
+      <description>eBay Gift Card with $50 prepaid credit for all your purchases on eBay.com.</description>
+      <cost>50$</cost>
+    </gift_card>
+    <gift_card code="saS432f" balance="60" enabled="False" expired="False" currency="Pound" promo_code="Hyper">
+      <giftcard_img>
+        <img id="spotify"></img>
+      </giftcard_img>
+      <name>Spotify</name>
+      <type>Digital</type>
+      <location>United Kingdom</location>
+      <deliver>Deliver time 5-10 min</deliver>
+      <discount>Promocode Hyper for 30% off</discount>
+      <valid>Expires on: 02/03/2023</valid>
+      <description>Buy your Spotify gift card online to enjoy all benefits of a Spotify Premium subscription for 1, 3 or 6 months.</description>
+      <cost>60$</cost>
+    </gift_card>
+    <gift_card code="saS432f" balance="20" enabled="False" expired="False" currency="Pound" promo_code="Hyper">
+      <giftcard_img>
+        <img id="nintendo"></img>
+      </giftcard_img>
+      <name>Nintendo</name>
+      <type>Digital</type>
+      <location>United Kingdom</location>
+      <deliver>Deliver time 5-10 min</deliver>
+      <discount>Promocode Hyper for 30% off</discount>
+      <valid>Expires on: 02/03/2023</valid>
+      <description>Need to increase your Nintendo Account funds? You came to the right place! Buy Nintendo gift card 20 USD as this is a way to do it! It’s simple, easy, convenient and safe.</description>
+      <cost>20$</cost>
+      <important_notice>Important Notice: No expiration date</important_notice>
+    </gift_card>
+    <gift_card code="saS432f" balance="25" enabled="False" expired="False" currency="Pound">
+      <giftcard_img>
+        <img id="apexlegends"></img>
+      </giftcard_img>
+      <name>Apex Legends</name>
+      <type>Digital</type>
+      <location>United Kingdom</location>
+      <deliver>Deliver time 5-10 min</deliver>
+      <valid>Expires on: 02/03/2023</valid>
+      <cost>20$</cost>
+      <important_notice>Important Notice: Requires the base game.</important_notice>
+    </gift_card>
+    <gift_card code="saS432f" balance="25" enabled="False" expired="False" currency="Pound" promo_code="Hyper">
+      <giftcard_img>
+        <img id="flight"></img>
+      </giftcard_img>
+      <name>Flight Simulator</name>
+      <type>Digital</type>
+      <location>United Kingdom</location>
+      <deliver>Deliver time 5-10 min</deliver>
+      <discount>Promocode Hyper for 30% off</discount>
+      <cost>20$</cost>
+      <important_notice>Important Notice: No expiration date</important_notice>
+    </gift_card>
+  </inventory>
+  <shop_details>
+    <store_address>
+      <street>71 Cherry Court, </street>
+      <city>SOUTHHAMPTOM, </city>
+      <postal_code>SO14</postal_code>
+      <country>, United Kingdom</country>
+    </store_address>
+    <contact>
+      Contact (<telephone_number> Phone No: 0800 123 400 </telephone_number> |
+      <mobile_number>Work No: +44 (0)207 160 6222</mobile_number> )
+    </contact>
+    <store_email>Email: transacta@gmail.com</store_email>
+    <store_web_address>Website: www.transacta.com</store_web_address>
+  </shop_details>
+  <logo>
+    <img id="twenty"></img>
+  </logo>
+  <description2>
+    <![CDATA[
+    24/7 Customer Support it doesn't mean every min. or hr. but we will reply your query even at 3:00AM So we put 24/7.
+    ]]>
+  </description2>
+</giftcard_store>
